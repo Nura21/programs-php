@@ -31,37 +31,37 @@ ___
 Berisikan source code yang mana melampirkan tata cara melemparkan suatu data ke fungsi-fungsi yang lain
 
 ## GET
-__
+___
 
 Penggunaan GET pada PHP dilampirkan disini
 
 ## LOGIN SYSTEM
-__
+___
 
 Analogi sederhana tentang bagaimana cara kita membuat login dalam suatu aplikasi
 
 ## PERCABANGAN & PEMILIHAN
-__
+___
 
 Cara kerja if-else ataupun switch pada PHP sama dengan bahasa lainnya,dilampirkan disini tata cara penggunaan if else dan switch
 
 ## PERULANGAN
-__
+___
 
 Bagaimana cara menampilkan data berulang-ulang? Disinilah dilampirkan bagaimana suatu data dapat ditampilkan secara berulang-ulang tanpa harus menulis berulang kali
 
 ## POST
-__
+___
 
 Dilampirkan tata cara bagaimana cara mengirim data lewat form HTML dan diterima data tersebut menggunakan PHP
 
 ## READ FILE
-__
+___
 
 PHP juga dapat membaca suatu file,seperti file.txt,disini berisikan tat cara bagaimana read file pada PHP serta menampilkan isi file tersebut
 
 ## SESSION
-__
+___
 
 Session berguna agar suatu webiste selalu mengingta bahwa user telah login,jadi selama proses yang dilakukan di dalam website tersebut
 website tersebut tau dan telah mengingat bahwa user telah login,karena user telah login dan data login yang dicocokkan dengan database adalah sama,
